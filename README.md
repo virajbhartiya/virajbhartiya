@@ -1,16 +1,39 @@
-### Hi there 👋
+<pre>
 
-<!--
-**virajbhartiya/virajbhartiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
 
-Here are some ideas to get you started:
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Backend Developer
+├─▣ Frontend Developer
+├─▣ <a href="https://virajbhartiya.github.io/">My website</a>
+├─▣ You Can Ping me on <a href="mailto:vlbhartiya@gmail.com">Gmail</a>
+│
+└───────────────────────────────▰▰▰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="mailto:vlbhartiya@gmail.com">Gmail</a>
+├─◈ <a href="https://www.youtube.com/channel/UCvwfCZDYeUKWdmHUAGhgsnQ">YouTube</a>
+├─◈ <a href="https://www.linkedin.com/in/viraj-bhartiya-b002b5196/">Linkden</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/virajbhartiya/Covid-Stats">Covid Stats</a>
+├─◈ <a href="https://github.com/virajbhartiya/Super-Mario">Super Mario</a>
+├─◈ <a href="https://github.com/virajbhartiya/Flappy-Bird-AI">Flappy Bird AI</a>
+├─◈ <a href="https://github.com/virajbhartiya/Trex-NEATt">Trex AI</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
