@@ -38,10 +38,3 @@
 │
 └───────────────────────────────▰▰▰
 </pre>
-
-[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhartiya&hide=contribs,issues&count_private=true&show_icons=true&theme=highcontrast)
-](https://github.com/virajbhartiya)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhartiya&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/virajbhartiya)
-
-[![Viraj Bhartiya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=virajbhartiya)](https://github.com/virajbhartiya)
