@@ -26,6 +26,7 @@
 ├─◈ <a href="mailto:vlbhartiya@gmail.com">Gmail</a>
 ├─◈ <a href="https://www.youtube.com/channel/UCvwfCZDYeUKWdmHUAGhgsnQ">YouTube</a>
 ├─◈ <a href="https://www.linkedin.com/in/viraj-bhartiya-b002b5196/">Linkden</a>
+├─◈ <a href="https://angel.co/u/viraj-bhartiya">Angel List</a>
 │
 └───────────────────────────────▰▰▰
 
