@@ -13,8 +13,8 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Backend Developer
-├─▣ Frontend Developer
+├─▣ Android Developer
+├─▣ iOS developer
 ├─▣ Smartwatch Developer
 ├─▣ <a href="https://virajbhartiya.github.io/">My website</a>
 ├─▣ You Can Ping me on <a href="mailto:vlbhartiya@gmail.com">Gmail</a>
