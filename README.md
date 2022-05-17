@@ -15,9 +15,9 @@
 │
 ├─▣ Android Developer
 ├─▣ iOS developer
-├─▣ Smartwatch Developer
-├─▣ <a href="https://virajbhartiya.github.io/">My website</a>
-├─▣ You Can Ping me on <a href="mailto:vlbhartiya@gmail.com">Gmail</a>
+├─▣ WearOS Developer
+├─▣ Automation
+├─▣ <a href="https://virajbhartiya.github.io/">Website</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -27,6 +27,7 @@
 ├─◈ <a href="https://www.youtube.com/channel/UCvwfCZDYeUKWdmHUAGhgsnQ">YouTube</a>
 ├─◈ <a href="https://www.linkedin.com/in/viraj-bhartiya-b002b5196/">Linkden</a>
 ├─◈ <a href="https://angel.co/u/viraj-bhartiya">Angel List</a>
+├─◈ <a href="https://www.twitter.com/heyxviraj">Twitter</a>
 │
 └───────────────────────────────▰▰▰
 
