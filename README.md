@@ -33,10 +33,11 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/virajbhartiya/Covid-Stats">Covid Stats</a>
+├─◈ <a href="https://github.com/virajbhartiya/Pyxis">Pyxis</a>
+├─◈ <a href="https://github.com/virajbhartiya/Alien">Alien</a>
 ├─◈ <a href="https://github.com/virajbhartiya/Super-Mario">Super Mario</a>
 ├─◈ <a href="https://github.com/virajbhartiya/Flappy-Bird-AI">Flappy Bird AI</a>
-├─◈ <a href="https://github.com/virajbhartiya/Trex-NEATt">Trex AI</a>
+├─◈ <a href="https://github.com/virajbhartiya/Trex-NEAT">Trex AI</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
