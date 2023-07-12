@@ -33,6 +33,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/virajbhartiya/apithreads">apithreads: npm pacakge</a>
 ├─◈ <a href="https://github.com/virajbhartiya/Pyxis">Pyxis</a>
 ├─◈ <a href="https://github.com/virajbhartiya/Alien">Alien</a>
 ├─◈ <a href="https://github.com/virajbhartiya/Super-Mario">Super Mario</a>
