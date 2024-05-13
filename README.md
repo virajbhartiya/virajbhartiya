@@ -5,11 +5,13 @@ for freelance work? do reach, [email](mailto:vlbhartiya@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 5 mins    █████████████████▒░░░░░░░   69.80 %
-TypeScript   1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-JSON         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Total Time: 16 hrs 5 mins
+
+TypeScript    12 hrs 54 mins  ████████████████████░░░░░   80.20 %
+CSS           1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+SCSS          1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+JavaScript    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
