@@ -17,6 +17,5 @@ JSON          8 mins          ▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 📈 my github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=virajbhartiya&show_icons=true&theme=gotham&include_all_commits=true" alt="virajbhartiya" /> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhartiya&theme=tokyonight&hide_border=true" alt="virajbhartiya" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajbhartiya&color=blue" alt="virajbhartiya" /> </p>
