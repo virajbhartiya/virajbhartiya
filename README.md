@@ -1,44 +1,21 @@
-<pre>
+for freelance work? do reach, [email](mailto:vlbhartiya@gmail.com) :)
 
-  ___   _      ___   _      ___   _      ___   _      ___   _
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|
-                             |            |            |
-                         ___  \_      ___  \_      ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/
+📊 **this week i spent my time on:**
 
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Android Developer
-├─▣ iOS developer
-├─▣ WearOS Developer
-├─▣ Automation
-├─▣ <a href="https://virajbhartiya.github.io/">Website</a>
-│
-└───────────────────────────────▰▰▰
+<!--START_SECTION:waka-->
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="mailto:vlbhartiya@gmail.com">Gmail</a>
-├─◈ <a href="https://www.youtube.com/channel/UCvwfCZDYeUKWdmHUAGhgsnQ">YouTube</a>
-├─◈ <a href="https://www.linkedin.com/in/viraj-bhartiya-b002b5196/">Linkden</a>
-├─◈ <a href="https://angel.co/u/viraj-bhartiya">Angel List</a>
-├─◈ <a href="https://www.twitter.com/heyxviraj">Twitter</a>
-│
-└───────────────────────────────▰▰▰
+```txt
+JavaScript   5 hrs 5 mins    █████████████████▒░░░░░░░   69.80 %
+TypeScript   1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+JSON         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
 
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/virajbhartiya/pathfinding-viz">Path Finding Algorithms</a>
-├─◈ <a href="https://github.com/virajbhartiya/Pyxis">Pyxis</a>
-├─◈ <a href="https://github.com/virajbhartiya/Alien">Alien</a>
-├─◈ <a href="https://github.com/virajbhartiya/Super-Mario">Super Mario</a>
-├─◈ <a href="https://github.com/virajbhartiya/Flappy-Bird-AI">Flappy Bird AI</a>
-├─◈ <a href="https://github.com/virajbhartiya/Trex-NEAT">Trex AI</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
+<!--END_SECTION:waka-->
+
+📈 my github stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=virajbhartiya&show_icons=true&theme=gotham" alt="virajbhartiya" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajbhartiya&label=Profile%20views&color=0e75b6&style=flat" alt="virajbhartiya" />
+</p>
