@@ -1,4 +1,5 @@
 for freelance work? do reach, [email](mailto:vlbhartiya@gmail.com) :)
+you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com)
 
 📊 **this week i spent my time on:**
 
