@@ -17,6 +17,4 @@ HTML          21 mins         ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-📈 my github stats
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhartiya&theme=tokyonight&hide_border=true" alt="virajbhartiya" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajbhartiya&color=blue" alt="virajbhartiya" /> </p>
