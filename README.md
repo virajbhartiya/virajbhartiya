@@ -6,13 +6,13 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 hrs 40 mins
+Total Time: 44 hrs 53 mins
 
-TypeScript    32 hrs 44 mins  ███████████████████▓░░░░░   78.43 %
-Python        3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-HTML          1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-CSS           1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-SCSS          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+TypeScript    35 hrs 35 mins  ███████████████████▓░░░░░   79.15 %
+Python        3 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+HTML          2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+CSS           1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+SCSS          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
