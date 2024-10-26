@@ -1,6 +1,5 @@
 for freelance work? do reach, [email](mailto:vlbhartiya@gmail.com) :)<br/>
 you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br/>
-I also opensource at [filecoin](https://github.com/filecoin-project) :P
 
 
 🚀 **this week i spent my time on:**
