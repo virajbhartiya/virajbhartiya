@@ -7,13 +7,13 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 51 mins
+Total Time: 10 hrs 24 mins
 
-Go           6 hrs 32 mins   ███████████████░░░░░░░░░░   60.19 %
-TypeScript   3 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.45 %
-HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Go           6 hrs 30 mins   ███████████████▓░░░░░░░░░   62.51 %
+TypeScript   3 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.44 %
+HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
