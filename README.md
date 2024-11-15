@@ -7,13 +7,13 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 43 mins
+Total Time: 6 hrs 21 mins
 
-Rust           2 hrs 37 mins   ██████████████░░░░░░░░░░░   55.39 %
-Markdown       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Makefile       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Go             19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-TeX            17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Rust           3 hrs 21 mins   █████████████▒░░░░░░░░░░░   52.78 %
+Go             34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Markdown       28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Makefile       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+TOML           20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
