@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:vlbhartiya@gmail.com) :)<br/>
+say hi to me at [vlbhartiya@gmail.com](mailto:vlbhartiya@gmail.com) :)<br/>
 you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br/>
 
 
