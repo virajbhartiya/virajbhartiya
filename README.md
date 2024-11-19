@@ -2,7 +2,7 @@ say hi to me at [vlbhartiya@gmail.com](mailto:vlbhartiya@gmail.com) :)<br/>
 you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br/>
 
 
-🚀 **this week i spent my time on:**
+🚀 **what i have been up to:**
 
 <!--START_SECTION:waka-->
 
