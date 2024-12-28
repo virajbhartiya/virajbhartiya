@@ -7,10 +7,9 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 0 secs
 
-Dart   40 mins         ████████████████████████▒   97.75 %
-YAML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
