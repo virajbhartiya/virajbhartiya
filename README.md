@@ -7,9 +7,10 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 25 mins
 
-No activity tracked
+Markdown   22 mins         ██████████████████████░░░   88.24 %
+Dart       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
 ```
 
 <!--END_SECTION:waka-->
