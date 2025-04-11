@@ -7,13 +7,13 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 14 mins
+Total Time: 15 hrs 49 mins
 
-Go           5 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
-Docker       2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-YAML         1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Python       1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Bash         1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Go           5 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.41 %
+Docker       2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+YAML         1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Bash         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Python       1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 ```
 
 <!--END_SECTION:waka-->
