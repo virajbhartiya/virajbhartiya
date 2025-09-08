@@ -7,13 +7,13 @@ you can see my portfolio at [virajbhartiya.com](https://virajbhartiya.com) :D<br
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 10 mins
+Total Time: 5 hrs 20 mins
 
-Go           1 hr 26 mins    ████████▓░░░░░░░░░░░░░░░░   34.69 %
-TypeScript   1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.74 %
-Python       29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-JavaScript   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Dart         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Go           1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+TypeScript   1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+JavaScript   45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Python       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+CocoaPods    25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
 ```
 
 <!--END_SECTION:waka-->
